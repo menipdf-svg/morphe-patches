@@ -1078,6 +1078,11 @@ Settings → Playback (or Autoplay) → Autoplay next video"</string>
     <!-- layout.hide.time.hideTimestampPatch -->
     <string name="morphe_hide_timestamp_title">Hide video timestamp</string>
 
+    <!-- layout.hide.video.hideVideoPatch -->
+    <string name="morphe_hide_video_title">Hide video</string>
+    <string name="morphe_hide_video_summary_on">Video is hidden, a black screen is shown</string>
+    <string name="morphe_hide_video_summary_off">Video is shown</string>
+
     <!-- layout.panels.popup.disablePlayerPopupPanelsPatch -->
     <string name="morphe_disable_player_popup_panels_title">Disable player popup panels</string>
     <string name="morphe_disable_player_popup_panels_summary">Disables playlist and live chat panels from opening automatically</string>
